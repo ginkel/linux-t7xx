@@ -3,7 +3,7 @@
 pkgbase=linux-t7xx
 pkgver=6.5.2.arch1
 pkgrel=1
-pkgdesc='Linux'
+pkgdesc='Linux w/ t7xx patches'
 _srctag=v${pkgver%.*}-${pkgver##*.}
 url="https://github.com/archlinux/linux/commits/$_srctag"
 arch=(x86_64)
