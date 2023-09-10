@@ -1,4 +1,4 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Thilo-Alexander Ginkel <thilo@ginkel.com>
 
 pkgbase=linux-t7xx
 pkgver=6.5.2.arch1
